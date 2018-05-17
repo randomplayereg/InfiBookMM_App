@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">InfiBookMM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <b><u>SignUp</u></b></string>
+    <string name="login">Login</string>
+    <string name="network_error">Error %1d</string>
+
+    //check valid info
+    <string name="real_name_empty">Real name is empty</string>
+    <string name="real_name_invalid">Real name is invalid</string>
+    <string name="password_empty">Password is empty</string>
+    <string name="password_invalid">Password contains at least 8 characters and have 1 upper case, 1 number</string>
+    <string name="email_empty">Email is empty</string>
+    <string name="email_invalid">Email is invalid</string>
+    <string name="phone_number_empty">Phone number is empty</string>
+    <string name="phone_number_invalid">Phone number is invalid</string>
+    <string name="confirm_not_match">Confirm password is not the same with password</string>
+    <string name="email">Email</string>
+    <string name="real_name">Real name</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="register"><u>Register</u></string>
+    <string name="continue_to_location_picker"><u>Continue to location Picker</u></string>
+    <string name="please_wait">Please wait</string>
+    <string name="exchange">Exchange</string>
+    <string name="lending">Lending</string>
+    <string name="transaction">Transaction</string>
+    <string name="exchange_and_lending">Exchange and lending</string>
+    <string name="review">Review</string>
+    <string name="more">More</string>
+    <string name="search_book_author">Search book, author, …</string>
+    <string name="add_to_my_book">Add to my book</string>
+    <string name="internet_not_available">Internet is not available, please check and try again!</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="device">Device</string>
+    <string name="notification">Notification</string>
+    <string name="manager">Manager</string>
+    <string name="are_you_sure">Are you sure to logout?</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="verification_code">Verification code</string>
+    <string name="please_enter_code_send_to">Please type verification code sent to</string>
+    <string name="resend_code">Resend code</string>
+    <string name="resend_code_in">You can resend Pin code in %1$s second(s)</string>
+
+    //Forgot password
+    <string name="introduce_forgot_password">We just need your registered email address to send you password reset</string>
+    <string name="email_address">Email address</string>
+    <string name="reset_password">Reset password</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="you_re_now_can_set_your_new_password_to_login_account">You\'re now can set your new password to login account</string>
+    <string name="submit">Submit</string>
+    <string name="reset_password_success">Successfully reset password</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+    //FB
+    <string name="facebook_app_id">216633215554145</string>
+    <string name="fb_login_protocol_scheme">fb216633215554145</string>
+    <string name="login_expired">Login is expired</string>
+    <string name="please_re_login">Please re-login to continue</string>
+    <string name="re_login">Re-login</string>
+
+    //Map API
+    <string name="google_maps_key">AIzaSyAyw5VPZbymska3fOCkVoRnCrEHgjGioJo</string>
+
+    //More
+    <string name="history">History</string>
+    <string name="about">About</string>
+    <string name="book">Book</string>
+    <string name="time">Time</string>
+    <string name="locationRequest">Location</string>
+    <string name="add_location">Add my address</string>
+    <string name="save">Save</string>
+    <string name="about_me">About me</string>
+    <string name="update_success">Update successfully</string>
+    <string name="view_less">View Less</string>
+    <string name="view_more">View More</string>
+
+
+    //avatar
+    <string name="select_from_gallery">Select image from your gallery</string>
+
+
+    //Exchange
+    <string name="for_you">For you</string>
+    <string name="top">Top</string>
+    <string name="around">Around</string>
+    <string name="category">Category</string>
+    <string name="discovery">Discovery</string>
+    <string name="author">Author:</string>
+    <string name="rating">Rating</string>
+    <string name="summary"><u>Summary</u></string>
+    <string name="details"><u>Details</u></string>
+    <string name="size">Size</string>
+    <string name="weight">Weight</string>
+    <string name="total_page">Total page</string>
+    <string name="get_this_book">Get this book</string>
+    <string name="translator">Translator</string>
+    <string name="publisher">Publisher</string>
+    <string name="show_size">"%1$.1f x %2$.1f cm"</string>
+    <string name="show_weight">"%1$d g"</string>
+    <string name="show_publish_date">"Publish date: %1$s"</string>
+    <string name="show_book_available">%1d book(s) are available now</string>
+    <string name="book_image">bookImage</string>
+
+    <string name="show_author">"Author: %1s"</string>
+    <string name="show_rating">"Rating: %1.1f"</string>
+    <string name="empty">Empty</string>
+    <string name="tab_to_refresh">Tab to refresh</string>
+    <string name="category_name">categoryName</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="introduce_location_permission">Enable locationRequest permission to find books around your current locationRequest</string>
+
+    //Flash
+    <string name="turn_on_flash">Turn on flash</string>
+    <string name="please_enable_camera">Please allow camera permission to use this</string>
+    <string name="camera_permission">Allow access camera</string>
+    <string name="camera_permission_message">Using camera to scan book code for quicker import</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="turn_off_flash">Turn off flash</string>
+    <string name="move_camera_to_book_s_isbn_barcode_area">Move camera to book\'s ISBN/Barcode area</string>
+    <string name="not_support">Not support</string>
+    <string name="your_device_not_support_flash">Your device does not support flash light</string>
+    <string name="add">Add</string>
+    <string name="book_not_found">Book\'s not found</string>
+    <string name="cant_find_book_message">We can\'t find your book by using ISBN, using search book by title instead</string>
+    <string name="re_scan">Re-scan</string>
+    <string name="using_to">Using to:</string>
+    <string name="time_allow">Time allow</string>
+    <string name="available">Available</string>
+    <string name="related_content">Related content (optional)</string>
+    <string name="your_feeling_about_this_book">Your feeling about this book (Optional)</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="title_transition">title_transition</string>
+    <string name="cant_get_data">Can\'t get data</string>
+    <string name="reload">Reload</string>
+    <string name="check_internet_reload">Please check your internet connection and reload</string>
+    <string name="no">No</string>
+    <string name="remind">Remind</string>
+    <string name="remind_book_exist_message">This book was on your bookshelf, do you want to add a new one?</string>
+    <string name="remind_book_lending_exist_message">This book was on your bookshelf, do you want to lend a new one?</string>
+
+    //Transaction
+    <string name="x_day">%1d day(s)</string>
+    <string name="x_week">%1d week(s)</string>
+    <string name="yes">Yes</string>
+    <string name="get">Get</string>
+    <string name="wait">Wait</string>
+    <string name="in_progress">In-progress</string>
+    <string name="done">Done</string>
+    <string name="wait_other">Wait other</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="accept">Accepted</string>
+    <string name="denied">Denied</string>
+    <string name="if_you_couldn_t_find_your_book">We couldn\'t find your book \nIf you have this book</string>
+    <string name="add_new_book">Add new book</string>
+    <string name="title">Title</string>
+    <string name="language">Language</string>
+    <string name="subcategory">Subcategory</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="english">English</string>
+    <string name="next">Next</string>
+    <string name="missing_info">Missing info</string>
+    <string name="size_h_x_w">Size (H x W cm)</string>
+    <string name="publish_date">Publish date</string>
+    <string name="edition">Edition</string>
+    <string name="invalid_time">Invalid time!</string>
+    <string name="do_you_want_to_add_this_book">Do you want to add this book?</string>
+    <string name="add_book">Add book</string>
+    <string name="isbn">ISBN</string>
+    <string name="scan_isbn">Scan ISBN</string>
+    <string name="image_source">Image source</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_exist_photo">Choose exist photo</string>
+    <string name="city">City</string>
+    <string name="district">District</string>
+    <string name="number_and_street">Number and street</string>
+    <string name="location_type">Location type</string>
+    <string name="personal_address">Personal address</string>
+    <string name="book_transfer_station">Book transfer station</string>
+    <string name="ward">Ward</string>
+    <string name="please_select_place_to_take_book">Please select place to take book</string>
+    <string name="request">Request</string>
+    <string name="missing_location">Missing location</string>
+    <string name="add_location_first">You need to add a location to exchange book first</string>
+    <string name="my_transaction">My transaction</string>
+    <string name="my_station">My station</string>
+    <string name="ready_to_take">Ready to take</string>
+    <string name="owner_name">Owner: %1s</string>
+    <string name="requester_name">Requester: %1s</string>
+    <string name="need_to_return">Need to return</string>
+    <string name="returned">Returned</string>
+    <string name="not_ready_to_take">Not ready to take</string>
+    <string name="status">Status</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="edit_location">Edit Location</string>
+    <string name="add_a_book_transfer_station">Add a book transfer station</string>
+    <string name="add_a_personal_address">Add a personal address</string>
+    <string name="if_you_have_your_own_station">If you have your own station\nTab here</string>
+    <string name="select_a_location">Select a location</string>
+
+    //pick location
+    <string name="pick_your_location">Please pick the location for your station before continuing</string>
+    <string name="your_address_here">Your address...</string>
+    <string name="confirm_location">Confirm</string>
+
+    //spinner
+    <string-array name="usage">
+        <item>Exchange</item>
+        <item>Lending</item>
+        <item>Both</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="unit">
+        <item>Day(s)</item>
+        <item>Week(s)</item>
+    </string-array>
+    <string name="title_activity_watcher">Watcher</string>
+
+</resources>
